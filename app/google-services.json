@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "366905636401",
+    "firebase_url": "https://inicio-sesion-22be3.firebaseio.com",
+    "project_id": "inicio-sesion-22be3",
+    "storage_bucket": "inicio-sesion-22be3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366905636401:android:1f04079cd61675e5",
+        "android_client_info": {
+          "package_name": "com.ejercicios.keka.iniciosesion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366905636401-h3hghfh1ik2a6p09o3ig7jmkin2tnm7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8-MO3KOnlb4zu03UbtumhQx2ghX8efqM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
